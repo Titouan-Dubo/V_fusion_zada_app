@@ -394,6 +394,7 @@ def fusion_zada(list_gdf_in: List[gpd.GeoDataFrame], col_zada='zada', col_to_rem
 #        merged_vector_1_2_join.to_file(folder_out_path + "fusion_zada.shp")
         return(merged_vector_1_2_join)
 
+
 #endregion
 ##########
 #region 6. test zada data
